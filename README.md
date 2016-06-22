@@ -1,5 +1,5 @@
 # VisibilityGraphMotifs
-This folder contains:
+This repository contains:
 
 
 1) 'HVG_motifs.m' a matlab function to extract the horizontal VG motif profile from a time series 
